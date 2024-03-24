@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'sfcount': count-data stochastic frontiers and underreported and overreported counts Use sfcount With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f sfcount.ado
+f sfcount.sthlp
